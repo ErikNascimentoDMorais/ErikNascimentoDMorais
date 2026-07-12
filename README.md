@@ -35,7 +35,7 @@ Building modern web applications and continuously learning new technologies.
 ### Front-End
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,redux,vite,bootstrap,sass,jquery" />
+<img src="https://skillicons.dev/icons?i=react,redux,vite,bootstrap,tailwind,sass,jquery" />
 </p>
 
 ### Tools
@@ -100,11 +100,11 @@ Always solving programming challenges to improve problem-solving skills.
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=ErikNascimentoDMorais&show_icons=true&theme=github_dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=eriknascimentodmorais&show_icons=true&theme=github_dark&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikNascimentoDMorais&layout=compact&theme=github_dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eriknascimentodmorais&layout=compact&theme=github_dark&hide_border=true)
 
-![](https://streak-stats.demolab.com?user=ErikNascimentoDMorais&theme=github-dark&hide_border=true)
+![](https://streak-stats.demolab.com?user=eriknascimentodmorais&theme=github-dark&hide_border=true)
 
 </div>
 
@@ -125,6 +125,7 @@ Always solving programming challenges to improve problem-solving skills.
 ![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
