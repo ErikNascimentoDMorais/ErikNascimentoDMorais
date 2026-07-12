@@ -76,7 +76,7 @@ Modern online learning platform built with **React** and **Vite**.
 
 ### Technologies
 
-React • JavaScript • Vite • CSS • Git
+React • JavaScript • Vite • CSS • TailwindCSS • Git 
 
 ### Live Demo
 
